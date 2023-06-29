@@ -37,20 +37,10 @@ Pricing and Seller Information:
 Users can explore pricing information for both new and used game products.
 The system provides links to trusted sellers, enabling users to conveniently access purchasing options.
 
- *** Installation and Setup ***
-To set up and run the Game Collection Management and Sourcing System, follow these steps:
 
-Clone the repository to your local machine.
-Install the required dependencies listed in the requirements.txt file.
-Set up the database and configure the connection details in the system's configuration file.
-Run the provided installation script to initialize the database schema and populate any required data.
-Start the system by executing the main application file.
-Access the system through a web browser using the provided URL.
-Note: Detailed installation and setup instructions can be found in the system's documentation.
 
-*** Technologies Used ***
+***Technologies Used***
 The Game Collection Management and Sourcing System utilizes the following technologies and frameworks:
-
 Backend: Python, Django (web framework), SQL
 Frontend: HTML, CSS, JavaScript
 Database: MongoDb
