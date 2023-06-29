@@ -1,4 +1,4 @@
-** Game Collection Management and Sourcing System **
+**Game Collection Management and Sourcing System**
 
 Overview
 The Game Collection Management and Sourcing System is a platform designed to assist users in managing their personal game collections, 
